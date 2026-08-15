@@ -2,6 +2,9 @@
 
 This directory contains comprehensive examples demonstrating various multi-agent patterns and workflows in Swarms.
 
+## Agent Factories
+- [agent_factories/](agent_factories/) - Reusable agent factory functions composed into a Researcher/Coder/Reviewer workflow
+
 ## Agent Rearrangement
 - [rearrange_test.py](agent_rearrange_examples/rearrange_test.py) - Test agent rearrangement functionality
 
